@@ -1,0 +1,12 @@
+D:\Code\ShortestPathRouting\ShortestPathRouting\bin\Debug\ShortestPathRouting.exe.config
+D:\Code\ShortestPathRouting\ShortestPathRouting\bin\Debug\ShortestPathRouting.exe
+D:\Code\ShortestPathRouting\ShortestPathRouting\bin\Debug\ShortestPathRouting.pdb
+D:\Code\ShortestPathRouting\ShortestPathRouting\obj\Debug\ShortestPathRouting.Form1.resources
+D:\Code\ShortestPathRouting\ShortestPathRouting\obj\Debug\ShortestPathRouting.Properties.Resources.resources
+D:\Code\ShortestPathRouting\ShortestPathRouting\obj\Debug\ShortestPathRouting.csproj.GenerateResource.cache
+D:\Code\ShortestPathRouting\ShortestPathRouting\obj\Debug\ShortestPathRouting.csproj.CoreCompileInputs.cache
+D:\Code\ShortestPathRouting\ShortestPathRouting\obj\Debug\ShortestPathRouting.exe
+D:\Code\ShortestPathRouting\ShortestPathRouting\obj\Debug\ShortestPathRouting.pdb
+D:\Code\ShortestPathRouting\ShortestPathRouting\obj\Debug\ShortestPathRouting.CreatePath.resources
+D:\Code\ShortestPathRouting\ShortestPathRouting\obj\Debug\ShortestPathRouting.csprojAssemblyReference.cache
+D:\Code\ShortestPathRouting\ShortestPathRouting\obj\Debug\ShortestPathRouting.InforNode.resources
